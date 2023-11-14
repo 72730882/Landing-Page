@@ -29,8 +29,11 @@ h3{
 .top-container{
     background-color: #E4F9F5;
     position:relative;
-    padding-top: 0px;
-    margin-top: 0 15%;
+    padding-top: 50px;
+    margin-top: 0;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-bottom: 10px;
 }
 .middle-container{
     margin: 0;
@@ -127,6 +130,7 @@ a:hover{
 }
 .c{
     width: 10%;
+    padding-top: 10px;
 }
 .a{
     width: 10%;
